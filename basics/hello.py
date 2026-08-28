@@ -9,3 +9,6 @@ print(message)
 # My learning goal
 goal = "Keep learning and stay consistent."
 print(f"My goal: {goal}")
+
+
+print(f"yes ")
